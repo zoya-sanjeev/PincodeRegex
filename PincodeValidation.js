@@ -11,7 +11,7 @@ function validatePincode(pincode){
 
 try{
     validatePincode("500000");
-    validatePincode("8989");
+    validatePincode("A40088");
 }catch(e){
     console.error(e);
 }
